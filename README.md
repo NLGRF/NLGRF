@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NLGRF&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Non github stats](https://github-readme-stats.vercel.app/api?username=NLGRF&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLGRF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLGRF&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
