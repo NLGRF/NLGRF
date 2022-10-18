@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ### Week activity
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=NLGRF&hide_title=true)
+
+### GitHub activity
+![](https://github-readme-stats.vercel.app/api?username=NLGRF&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&hide_title=true)
