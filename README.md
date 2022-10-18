@@ -18,9 +18,3 @@ Here are some ideas to get you started:
 
 ![Non github stats](https://github-readme-stats.vercel.app/api?username=NLGRF&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NLGRF&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-### Week activity
-![NLGRF](https://github-readme-stats.vercel.app/api/wakatime?username=NLGRF&hide_title=true)
-
-### GitHub activity
-![NLGRF](https://github-readme-stats.vercel.app/api?username=NLGRF&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&hide_title=true)
